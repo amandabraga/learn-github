@@ -1,2 +1,2 @@
 # learn-github
-Repositório para estudo de colaboração do GitHub 4 Woman
+Repositório para estudo de colaboração do GitHub 4 Women
